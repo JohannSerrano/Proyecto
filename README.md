@@ -1,10 +1,10 @@
 
-# Apo2
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
 
-# Titulo del Proyecto
+<!-- Se realizo un cambio en el titulo del proyecto -->
+# REGISTRO DE MATERIAS Y NOTAS
 
-Un párrafo de la descripción del proyecto va aquí.
+Este proyecto consiste en hacer un registro de notas en diferentes asignaturas por medio de Java script.
 
 ## Empezando
 
@@ -56,10 +56,6 @@ Explique qué prueban estas pruebas y por qué.
 Give an example
 
 
-## Despliegue (Deployment)
-
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
-
 
 ## Construido con
 
@@ -75,10 +71,6 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 * *Gustavo Sánchez* 
 
-
-## Licencia
-
-Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
 
 ## Expresiones de gratitud (Acknowledgments)
 
