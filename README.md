@@ -80,13 +80,15 @@ Eclipse IDE for Java Script
 
 Se utilizo la version de Eclipse IDE for Java Developers-2023-06
 
+<!-- Se realizaron cambios en autores y expresiones de gratitud -->
 ## Autores
 
-* *Gustavo Sánchez* 
+* *Johan Serrano*
+* *Karen Erazo*
 
 
-## Expresiones de gratitud (Acknowledgments)
+## Expresiones de gratitud
 
-* Un consejo para cualquiera cuyo código se haya utilizado
-* Inspiración
-* etc
+* Aprovechar las herramientas que tenemos a nuestro alcance.
+* Este proyecto fue realizado con el acompañamiento del Docente Mauricio Lopez.
+
