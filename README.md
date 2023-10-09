@@ -71,21 +71,10 @@ Paso 4: Se muestra a manera de mensaje el nombre de las asignaturas y las notas 
 
     JOptionPane.showMessageDialog(null, "Las notas de las asignaturas son:\n"+asignatura[0]+"="+notas[0]+"\n"+asignatura[1]+"="+notas[1]+"\n"+asignatura[2]+"="+notas[2]+"\n"+asignatura[3]+"="+notas[3]+"\n"+asignatura[4]+"="+notas[4]+"\n");
 
-
-### Y pruebas de estilo de codificación.
-
-Explique qué prueban estas pruebas y por qué.
-
-
-Give an example
-
-
-
+<!-- Cambios en la descripcion del programa utilizado -->
 ## Construido con
 
-Dropwizard : el marco web utilizado
-Maven - Gestión de dependencias
-ROMA : se utiliza para generar canales RSS
+Eclipse IDE for Java Script
 
 ## Versionado
 
