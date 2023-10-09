@@ -75,10 +75,10 @@ Paso 4: Se muestra a manera de mensaje el nombre de las asignaturas y las notas 
 ## Construido con
 
 Eclipse IDE for Java Script
-
+<!-- Cambio en la version del programa utilizado -->
 ## Versionado
 
-Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
+Se utilizo la version de Eclipse IDE for Java Developers-2023-06
 
 ## Autores
 
