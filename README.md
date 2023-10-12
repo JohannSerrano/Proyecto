@@ -6,9 +6,11 @@
 
 Este proyecto consiste en hacer un registro de notas en diferentes asignaturas por medio de Java script.
 
+<!-- se modifico la parte de empezando -->
+
 _## Empezando_
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
+Estas instrucciones te permitiran llevar un registro de las notas en las materias deseadas esto con el fin de llevar un buen orden academico
 
 _### Requisitos previos_
 
