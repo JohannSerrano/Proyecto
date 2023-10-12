@@ -122,7 +122,10 @@ A continuacion se muestra el paso a paso de las pruebas ejecutadas:
 
 <!-- Cambios en la descripcion del programa utilizado -->
 _## Construido con_
-    ![Logo Java](https://media.imgcdn.org/repo/2023/03/eclipse-ide-for-java-developers/eclipse-logo.png)     Eclipse IDE for Java Script
+<!-- Se cambio la posicion de algunos textos -->
+![Logo Java](https://media.imgcdn.org/repo/2023/03/eclipse-ide-for-java-developers/eclipse-logo.png)
+
+ Eclipse IDE for Java Script
 
 <!-- Cambio en la version del programa utilizado -->
 _## Versionado_
