@@ -33,8 +33,16 @@ _### Instalación_
 Estos son los codigos que vamos a utilizar en cada caso:
 
 
-Para imprimir un mensaje: 
+##Para imprimir un mensaje: 
+
 JOptionPane.showMessageDialog(null, "-Mensaje", "Titulo", -1;)
+
+<!-- Segundo cambio en instalacion -->
+##Para Crear una contendora:
+
+La Estructura es:
+Tipo de variable la variable []=new String["Cantidad de datos a almacenar"];
+String asignatura[]=new String[5];
 
 
 _## Ejecutando las pruebas_
