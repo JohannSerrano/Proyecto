@@ -16,11 +16,11 @@ Estas instrucciones te permitiran llevar un registro de las notas en las materia
 
 _### Requisitos previos_
 
-Tener el lenguaje de programacion "eclipse" en el computador que vayas a trabajar;
+Tener el lenguaje de programacion "eclipse" en el computador que vayas a trabajar; adjunto el link del software 
 
+<!-- enlace de eclipse -->
 
-Give examples
-
+https://www.eclipse.org/downloads/packages/release/indigo/sr2/eclipse-ide-javascript-web-developers
 
 _### Instalación_
 
