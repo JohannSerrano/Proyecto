@@ -55,9 +55,39 @@ for(Inicializacion;Expresion Booleana;Actualizacion){
 for (int i=1; i<=12; i++) { 
 }
 
+<!-- Cambios en Ejecutando Pruebas -->
+
 _## Ejecutando las pruebas_
 
-Explicar cómo ejecutar las pruebas automatizadas para este sistema.
+Para ello debemos estar en eclipse y darle en la opcion run para que funcione el codigo
+
+```
+package apo2;
+
+import javax.swing.JOptionPane;
+
+public class dosContene {
+	public static void main(String[] args) {
+			String asignatura[]=new String [5];
+			
+			asignatura[0]="Sociales";
+			asignatura[1]="Español";
+			asignatura[2]="Matematicas";
+			asignatura[3]="Ingles";
+			asignatura[4]="Religion";
+		
+			JOptionPane.showMessageDialog(null, "Las notas de las asignaturas son:\n"+asignatura[0]+"\n"+asignatura[1]+"\n"+asignatura[2]+"\n"+asignatura[3]+"\n"+asignatura[4]);
+			
+			float notas[]=new float [5];
+			for (int i=0;i<5;i++) {
+				notas[i]=Float.parseFloat(JOptionPane.showInputDialog(null,"Pon las notas de las asignaturas\n"+asignatura[i]));
+			}
+
+	
+			JOptionPane.showMessageDialog(null, "Las notas de las asignaturas son:\n"+asignatura[0]+"="+notas[0]+"\n"+asignatura[1]+"="+notas[1]+"\n"+asignatura[2]+"="+notas[2]+"\n"+asignatura[3]+"="+notas[3]+"\n"+asignatura[4]+"="+notas[4]+"\n");
+	}
+    }
+```
 
 <!-- Se realizo un cambio en la division de pruebas -->
 
