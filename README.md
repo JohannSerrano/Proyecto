@@ -42,7 +42,7 @@ Explicar cómo ejecutar las pruebas automatizadas para este sistema.
 
 <!-- Se realizo un cambio en la division de pruebas -->
 
-### Dividir en pruebas de principio a fin
+_### Dividir en pruebas de principio a fin_
 
 A continuacion se muestra el paso a paso de las pruebas ejecutadas: 
 
@@ -72,11 +72,11 @@ Paso 4: Se muestra a manera de mensaje el nombre de las asignaturas y las notas 
     JOptionPane.showMessageDialog(null, "Las notas de las asignaturas son:\n"+asignatura[0]+"="+notas[0]+"\n"+asignatura[1]+"="+notas[1]+"\n"+asignatura[2]+"="+notas[2]+"\n"+asignatura[3]+"="+notas[3]+"\n"+asignatura[4]+"="+notas[4]+"\n");
 
 <!-- Cambios en la descripcion del programa utilizado -->
-## Construido con
+_## Construido con_
 
 Eclipse IDE for Java Script
 <!-- Cambio en la version del programa utilizado -->
-## Versionado
+_## Versionado_
 
 Se utilizo la version de Eclipse IDE for Java Developers-2023-06
 
