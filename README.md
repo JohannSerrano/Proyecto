@@ -33,13 +33,13 @@ _### Instalación_
 Estos son los codigos que vamos a utilizar en cada caso:
 
 
-##Para imprimir un mensaje: 
+## Para imprimir un mensaje: 
 
 JOptionPane.showMessageDialog(null, "-Mensaje", "Titulo", -1;)
 
 <!-- Segundo cambio en instalacion -->
 
-##Para Crear una contendora:
+## Para Crear una contendora:
 
 La Estructura es:
 Tipo de variable la variable []=new String["Cantidad de datos a almacenar"];
@@ -47,7 +47,7 @@ String asignatura[]=new String[5];
 
 <!-- Tercer cambio en instalacion -->
 
-##Condicional for:
+## Condicional for:
 
 La estructura es:
 for(Inicializacion;Expresion Booleana;Actualizacion){
@@ -130,6 +130,8 @@ _## Construido con_
 <!-- Cambio en la version del programa utilizado -->
 _## Versionado_
 Se utilizo la version de Eclipse IDE for Java Developers-2023-06
+<!-- Se inserto imagen -->
+![Imagen Version](https://pbs.twimg.com/media/Fy_n4vDXwA85C7l?format=jpg&name=large)
 
 <!-- Se realizaron cambios en autores y expresiones de gratitud -->
 _## Autores_
