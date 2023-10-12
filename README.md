@@ -18,6 +18,10 @@ _### Requisitos previos_
 
 Tener el lenguaje de programacion "eclipse" en el computador que vayas a trabajar; adjunto el link del software 
 
+<!-- Se inserto el logo -->
+
+![Logo Eclipse](https://branditechture.agency/brand-logos/wp-content/uploads/2023/05/Eclipse-IDE.png)
+
 <!-- enlace de eclipse -->
 
 https://www.eclipse.org/downloads/packages/release/indigo/sr2/eclipse-ide-javascript-web-developers
