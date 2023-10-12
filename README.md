@@ -131,7 +131,7 @@ _## Construido con_
 _## Versionado_
 Se utilizo la version de Eclipse IDE for Java Developers-2023-06
 <!-- Se inserto imagen -->
-![Imagen Version](https://i.ytimg.com/vi/JgMLyGBEQ1c/hqdefault.jpg)
+![Imagen Version](https://media.geeksforgeeks.org/wp-content/uploads/20220621102013/e4.png)
 
 <!-- Se realizaron cambios en autores y expresiones de gratitud -->
 _## Autores_
