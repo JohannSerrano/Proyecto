@@ -18,7 +18,7 @@ Qué cosas necesitas para instalar el software y cómo instalarlas
 Give examples
 
 
-### Instalación
+_### Instalación_
 
 Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo.
 
@@ -36,7 +36,7 @@ until finished
 
 Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
 
-## Ejecutando las pruebas
+_## Ejecutando las pruebas_
 
 Explicar cómo ejecutar las pruebas automatizadas para este sistema.
 
