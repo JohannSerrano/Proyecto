@@ -12,9 +12,11 @@ _## Empezando_
 
 Estas instrucciones te permitiran llevar un registro de las notas en las materias deseadas esto con el fin de llevar un buen orden academico
 
+<!-- cambios en requisitos previos -->
+
 _### Requisitos previos_
 
-Qué cosas necesitas para instalar el software y cómo instalarlas
+Tener el lenguaje de programacion "eclipse" en el computador que vayas a trabajar;
 
 
 Give examples
