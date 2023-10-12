@@ -46,7 +46,7 @@ _### Dividir en pruebas de principio a fin_
 
 A continuacion se muestra el paso a paso de las pruebas ejecutadas: 
 
-Paso 1: Crear un menu a modo de contenedora para que reciba la información que el usuario le de:
+*Paso 1: Crear un menu a modo de contenedora para que reciba la información que el usuario le de:
 
 	String asignatura[]=new String [5];
 	        asignatura[0]="Sociales";
@@ -55,11 +55,11 @@ Paso 1: Crear un menu a modo de contenedora para que reciba la información que 
 	        asignatura[3]="Ingles";
             asignatura[4]="Religion";
 		
-Paso 2: Mostrarle al usuario la lista de las asignaturas que tiene la contenedora:
+*Paso 2: Mostrarle al usuario la lista de las asignaturas que tiene la contenedora:
 
     JOptionPane.showMessageDialog(null, "Las notas de las asignaturas son:\n"+asignatura[0]+"\n"+asignatura[1]+"\n"+asignatura[2]+"\n"+asignatura[3]+"\n"+asignatura[4]);
 
-Paso 3: Se crea una condición para guardar los datos que el usuario ingrese, también se le pide el ingreso de la nota correspondiente a cada asignatura:
+*Paso 3: Se crea una condición para guardar los datos que el usuario ingrese, también se le pide el ingreso de la nota correspondiente a cada asignatura:
 
 		float notas[]=new float [5];
 		for (int i=0;i<5;i++) {
@@ -67,28 +67,24 @@ Paso 3: Se crea una condición para guardar los datos que el usuario ingrese, ta
 			}
 
 
-Paso 4: Se muestra a manera de mensaje el nombre de las asignaturas y las notas agregadas por el usuario en forma de lista:
+*Paso 4: Se muestra a manera de mensaje el nombre de las asignaturas y las notas agregadas por el usuario en forma de lista:
 
     JOptionPane.showMessageDialog(null, "Las notas de las asignaturas son:\n"+asignatura[0]+"="+notas[0]+"\n"+asignatura[1]+"="+notas[1]+"\n"+asignatura[2]+"="+notas[2]+"\n"+asignatura[3]+"="+notas[3]+"\n"+asignatura[4]+"="+notas[4]+"\n");
 
 <!-- Cambios en la descripcion del programa utilizado -->
 _## Construido con_
-
 Eclipse IDE for Java Script
+
 <!-- Cambio en la version del programa utilizado -->
 _## Versionado_
-
 Se utilizo la version de Eclipse IDE for Java Developers-2023-06
 
 <!-- Se realizaron cambios en autores y expresiones de gratitud -->
-## Autores
-
+_## Autores_
 * *Johan Serrano*
 * *Karen Erazo*
 
-
-## Expresiones de gratitud
-
+_## Expresiones de gratitud_
 * Aprovechar las herramientas que tenemos a nuestro alcance.
 * Este proyecto fue realizado con el acompañamiento del Docente Mauricio Lopez.
 
