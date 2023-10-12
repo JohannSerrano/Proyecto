@@ -26,23 +26,16 @@ Tener el lenguaje de programacion "eclipse" en el computador que vayas a trabaja
 
 https://www.eclipse.org/downloads/packages/release/indigo/sr2/eclipse-ide-javascript-web-developers
 
+<!-- Cambios en instalacion -->
+
 _### Instalación_
 
-Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo.
-
-Di cuál será el paso.
+Estos son los codigos que vamos a utilizar en cada caso:
 
 
-Give the example
+Para imprimir un mensaje: 
+JOptionPane.showMessageDialog(null, "-Mensaje", "Titulo", -1;)
 
-
-Y repetir
-
-
-until finished
-
-
-Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
 
 _## Ejecutando las pruebas_
 
