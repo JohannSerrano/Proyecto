@@ -47,7 +47,7 @@ _### Dividir en pruebas de principio a fin_
 A continuacion se muestra el paso a paso de las pruebas ejecutadas: 
 
 *Paso 1: Crear un menu a modo de contenedora para que reciba la información que el usuario le de:
-
+   
 	String asignatura[]=new String [5];
 	        asignatura[0]="Sociales";
 		    asignatura[1]="Español";
@@ -73,7 +73,7 @@ A continuacion se muestra el paso a paso de las pruebas ejecutadas:
 
 <!-- Cambios en la descripcion del programa utilizado -->
 _## Construido con_
-Eclipse IDE for Java Script
+    ![Logo Java](https://media.imgcdn.org/repo/2023/03/eclipse-ide-for-java-developers/eclipse-logo.png)     Eclipse IDE for Java Script
 
 <!-- Cambio en la version del programa utilizado -->
 _## Versionado_
