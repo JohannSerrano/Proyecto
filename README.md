@@ -131,7 +131,7 @@ _## Construido con_
 _## Versionado_
 Se utilizo la version de Eclipse IDE for Java Developers-2023-06
 <!-- Se inserto imagen -->
-![Imagen Version](https://pbs.twimg.com/media/Fy_n4vDXwA85C7l?format=jpg&name=large)
+![Imagen Version](https://i.ytimg.com/vi/JgMLyGBEQ1c/hqdefault.jpg)
 
 <!-- Se realizaron cambios en autores y expresiones de gratitud -->
 _## Autores_
